@@ -1,0 +1,10 @@
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Test\Test\bin\Release\Test.exe.manifest
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Test\Test\bin\Release\Test.application
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Test\Test\bin\Release\Test.exe
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Test\Test\bin\Release\Test.pdb
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Test\Test\obj\x86\Release\Interop.iTunesLib.dll
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Test\Test\obj\x86\Release\Test.csproj.ResolveComReference.cache
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Test\Test\obj\x86\Release\Test.exe.manifest
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Test\Test\obj\x86\Release\Test.application
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Test\Test\obj\x86\Release\Test.exe
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Test\Test\obj\x86\Release\Test.pdb

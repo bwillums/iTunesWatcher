@@ -1,0 +1,14 @@
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Test\Test\bin\Debug\iTunesWatcher.exe.manifest
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Test\Test\bin\Debug\iTunesWatcher.application
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Test\Test\bin\Debug\iTunesWatcher.exe
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Test\Test\bin\Debug\iTunesWatcher.pdb
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Test\Test\obj\x86\Debug\Interop.iTunesLib.dll
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Test\Test\obj\x86\Debug\iTunesWatcher.csproj.ResolveComReference.cache
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Test\Test\obj\x86\Debug\iTunesWatcher.exe.manifest
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Test\Test\obj\x86\Debug\iTunesWatcher.application
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Test\Test\obj\x86\Debug\iTunesWatcher.exe
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Test\Test\obj\x86\Debug\iTunesWatcher.pdb
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\iTunesWatcher\Test\obj\x86\Debug\Interop.iTunesLib.dll
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\iTunesWatcher\Test\obj\x86\Debug\iTunesWatcher.csproj.ResolveComReference.cache
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\iTunesWatcher\Test\obj\x86\Debug\iTunesWatcher.exe
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\iTunesWatcher\Test\obj\x86\Debug\iTunesWatcher.pdb

@@ -1,0 +1,16 @@
+C:\Users\Brian\AppData\Local\Temporary Projects\Test\bin\Debug\Test.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Test\bin\Debug\Test.pdb
+C:\Users\Brian\AppData\Local\Temporary Projects\Test\obj\x86\Debug\Test.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Test\obj\x86\Debug\Test.pdb
+C:\Users\Brian\AppData\Local\Temporary Projects\Test\obj\x86\Debug\Interop.iTunesLib.dll
+C:\Users\Brian\AppData\Local\Temporary Projects\Test\obj\x86\Debug\Test.csproj.ResolveComReference.cache
+C:\Users\Brian\documents\visual studio 2010\Projects\Test\Test\obj\x86\Debug\Interop.iTunesLib.dll
+C:\Users\Brian\documents\visual studio 2010\Projects\Test\Test\obj\x86\Debug\Test.csproj.ResolveComReference.cache
+C:\Users\Brian\documents\visual studio 2010\Projects\Test\Test\obj\x86\Debug\Test.exe
+C:\Users\Brian\documents\visual studio 2010\Projects\Test\Test\obj\x86\Debug\Test.pdb
+C:\Users\Brian\documents\visual studio 2010\Projects\Test\Test\bin\Debug\Test.exe
+C:\Users\Brian\documents\visual studio 2010\Projects\Test\Test\bin\Debug\Test.pdb
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Test\Test\bin\Debug\Test.exe.manifest
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Test\Test\bin\Debug\Test.application
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Test\Test\obj\x86\Debug\Test.exe.manifest
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Test\Test\obj\x86\Debug\Test.application
